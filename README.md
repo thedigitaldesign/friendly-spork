@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 - [Deno](https://deno.land/#installation) v1.29.0 or later
-- Make sure you have destinations and drivers files ready
+- Import your own destinations.txt/drivers.txt or use the ones provided
 
 ### Running The App
 1. Clone the repository
